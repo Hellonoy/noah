@@ -1,0 +1,18 @@
+export const DESIGN_STYLES: string[] = [
+  "Art Deco",
+  "Bohemian",
+  "Coastal",
+  "Eclectic",
+  "Farmhouse",
+  "French Country",
+  "Industrial",
+  "Japandi",
+  "Maximalist",
+  "Mid-Century Modern",
+  "Minimalist",
+  "Moroccan",
+  "Rustic",
+  "Scandinavian",
+  "Traditional",
+  "Transitional",
+];
